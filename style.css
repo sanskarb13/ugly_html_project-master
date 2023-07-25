@@ -1,0 +1,57 @@
+/* global */
+
+body {
+    background-color: black; 
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* Site Titel */
+
+h1 {
+    background-color: darkblue;
+    color: gold;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 15px
+}
+
+#starters_image_div img {
+    width: 275px;
+}
+
+img {
+    margin-left: 450px;
+    width: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bulbasaur_container {
+    background-color: lightgreen;
+    border: solid gold;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+#charmander_container {
+    background-color: lightsalmon;
+    border: solid gold;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+#squirtle_container {
+    background-color: lightblue;
+    border: solid gold;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
